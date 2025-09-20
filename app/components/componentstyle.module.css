@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.chatWindow {
+    min-height: 80vh;
+}
